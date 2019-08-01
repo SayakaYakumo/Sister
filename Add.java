@@ -1,5 +1,5 @@
 public class Add{
     public static void main(String[] args) {
-        System.out.println("WCE");
+        System.out.println("Waseda Computer Entertainment");
     }
 }
